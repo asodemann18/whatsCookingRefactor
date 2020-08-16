@@ -1,11 +1,11 @@
 # What's Cooking Refactor
 
-# Project By: [Carlos Flores](https://github.com/carflor), [Edwin Montealvo](https://github.com/emontealvo), and [Alex Sodemann](https://github.com/asodemann18)
+## Project By: [Carlos Flores](https://github.com/carflor), [Edwin Montealvo](https://github.com/emontealvo), and [Alex Sodemann](https://github.com/asodemann18)
 
-# About
+## About
 We built on top of somebody else’s pre-existing Whats Cookin’ codebase and added new functionality.
 
-# Project Goals
+## Project Goals
 * Build on top of pre-existing code that you did not write and navigate someone else’s codebase
 * Develop processes for working remotely and submitting pull requests to perform effective code reviews that help ensure the code is accurate and that everyone understands it
 * Make network requests to API endpoints to retrieve and manipulate data
@@ -15,11 +15,20 @@ We built on top of somebody else’s pre-existing Whats Cookin’ codebase and a
 * Incorporate Webpack to streamline your workflow process
 * Leverage Chai Spies to verify that your DOM manipulation is happening
 
-# In Action
+## In Action
+Main Functionality:
 ![Main Functionality](https://github.com/carflor/whatsCookingRefactor/blob/master/src/images/2020-06-02%2016.05.37.gif)
+
+Filter Functionality:
 ![Filter Functionality](https://github.com/carflor/whatsCookingRefactor/blob/master/src/images/filtering.gif)
+
+Pantry Functionality:
 ![Pantry Funcitonality](https://github.com/carflor/whatsCookingRefactor/blob/master/src/images/post.gif)
+
+Ingredient Functionality:
 ![Ingredients Functionality](https://github.com/carflor/whatsCookingRefactor/blob/master/src/images/instructions.gif)
+
+Responsive:
 ![Mobile Functionality](https://github.com/carflor/whatsCookingRefactor/blob/master/src/images/mobile.gif)
 
 ## Setup
@@ -33,7 +42,6 @@ go to http://localhost:8080/
 ### Technologies Used:
 * JavaScript
 * HTML/SCSS
-* Git/GitHub
 * npm
   * webpack
   * mocha
