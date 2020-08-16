@@ -16,19 +16,19 @@ Built on top of somebody else’s pre-existing Whats Cookin’ codebase, added n
 * Leverage Chai Spies to verify that your DOM manipulation is happening
 
 ## In Action
-Main Functionality:
+### Main Functionality:
 ![Main Functionality](https://github.com/carflor/whatsCookingRefactor/blob/master/src/images/2020-06-02%2016.05.37.gif)
 
-Filter Functionality:
+### Filter Functionality:
 ![Filter Functionality](https://github.com/carflor/whatsCookingRefactor/blob/master/src/images/filtering.gif)
 
-Pantry Functionality:
+### Pantry Functionality:
 ![Pantry Funcitonality](https://github.com/carflor/whatsCookingRefactor/blob/master/src/images/post.gif)
 
-Ingredient Functionality:
+### Ingredient Functionality:
 ![Ingredients Functionality](https://github.com/carflor/whatsCookingRefactor/blob/master/src/images/instructions.gif)
 
-Responsive:
+### Responsive:
 ![Mobile Functionality](https://github.com/carflor/whatsCookingRefactor/blob/master/src/images/mobile.gif)
 
 ## Setup
