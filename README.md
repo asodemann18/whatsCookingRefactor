@@ -3,7 +3,7 @@
 ## Project By: [Carlos Flores](https://github.com/carflor), [Edwin Montealvo](https://github.com/emontealvo), and [Alex Sodemann](https://github.com/asodemann18)
 
 ## About
-We built on top of somebody else’s pre-existing Whats Cookin’ codebase and added new functionality.
+Built on top of somebody else’s pre-existing Whats Cookin’ codebase, added new functionality, and fixed bugs.
 
 ## Project Goals
 * Build on top of pre-existing code that you did not write and navigate someone else’s codebase
